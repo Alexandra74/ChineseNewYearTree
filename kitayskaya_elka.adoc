@@ -34,7 +34,7 @@ image::Photos/period.png[]
 
 Ниже представлен результат работы программы:
 
-image::https://github.com/Dimooon174/ChineseNewYerTree/blob/main/Photos/work.gif[]
+image::https://github.com/Alexandra74/ChineseNewYearTree/blob/main/Photos/work.gif[]
 
 код программы и классов представлены ниже:
 
